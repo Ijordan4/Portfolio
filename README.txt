@@ -29,7 +29,7 @@ To use this portfolio page, simply load the page and navigate through the differ
 This project is open to contributions. If you would like to contribute, please fork the repository and create a pull request. I also had help from Christina, Emily, and Joseph as well as google :)
 
 # Deployed Website
-ijordan4.github.io/Portfolio
+https://ijordan4.github.io/Portfolio/
 
 ![Screenshot (34)](https://user-images.githubusercontent.com/124106922/235031148-d2b40442-272d-416f-a91e-055fe594c100.png)
 ![Screenshot (35)](https://user-images.githubusercontent.com/124106922/235031157-4e9645df-5b32-43cd-a0f3-d522736e8a0f.png)
